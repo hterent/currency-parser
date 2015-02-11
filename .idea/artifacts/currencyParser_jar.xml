@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="currencyParser:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/currencyParser_jar</output-path>
+    <root id="root">
+      <element id="archive" name="currencyParser.jar">
+        <element id="module-output" name="currencyParser" />
+      </element>
+      <element id="library" level="project" name="jsoup-1.8.1" />
+    </root>
+  </artifact>
+</component>
